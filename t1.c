@@ -1,0 +1,4 @@
+interface{
+push();
+pop();
+}
